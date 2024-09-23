@@ -12,8 +12,8 @@ using P01_StudentSystem.P01__StudentSystem.Data;
 namespace P01_StudentSystem.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240923151649_test1")]
-    partial class test1
+    [Migration("20240923212848_first_add")]
+    partial class first_add
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

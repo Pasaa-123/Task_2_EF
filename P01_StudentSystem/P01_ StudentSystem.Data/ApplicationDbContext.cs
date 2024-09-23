@@ -31,16 +31,6 @@ namespace P01_StudentSystem.P01__StudentSystem.Data
             modelBuilder.Entity<StudentCourse>()
              .HasKey(sc => new { sc.StudentId, sc.CourseId });
 
-            modelBuilder.Entity<StudentCourse>()
-                .HasOne(sc => sc.Student)
-                .WithMany(s => s.StudentCourses)
-                .HasForeignKey(sc => sc.StudentId);
-
-            modelBuilder.Entity<StudentCourse>()
-                .HasOne(sc => sc.Course)
-                .WithMany(c => c.StudentCourses)
-                .HasForeignKey(sc => sc.CourseId);
-
             modelBuilder.Entity<Student>()
                 .Property(s => s.Name)
                 .IsUnicode(true)
@@ -70,16 +60,6 @@ namespace P01_StudentSystem.P01__StudentSystem.Data
                 .Property(c => c.Description)
                 .IsUnicode(true)
                 .IsRequired(false);
-
-            modelBuilder.Entity<Homework>()
-                .HasOne(h => h.Course)
-                .WithMany(c => c.Homeworks)
-                .HasForeignKey(h => h.CourseId);
-
-            modelBuilder.Entity<Resource>()
-                .HasOne(r => r.Course)
-                .WithMany(c => c.Resources)
-                .HasForeignKey(r => r.CourseId);
 
             modelBuilder.Entity<Resource>()
                 .Property(r => r.Name)

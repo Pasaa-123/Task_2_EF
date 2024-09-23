@@ -1,38 +1,48 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923151649_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P01_StudentSystem\\Migrations\\20240923151649_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923212848_first_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P01_StudentSystem\\Migrations\\20240923212848_first_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{301D770D-F0BB-4241-8F79-7D7C98FA8D24}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\kerol\\source\\repos\\p01_studentsystem\\p01_studentsystem\\p01_ studentsystem.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{301D770D-F0BB-4241-8F79-7D7C98FA8D24}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\p01_ studentsystem.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923151220_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P01_StudentSystem\\Migrations\\20240923151220_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{301D770D-F0BB-4241-8F79-7D7C98FA8D24}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\kerol\\source\\repos\\p01_studentsystem\\p01_studentsystem\\p01_ studentsystem.model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{301D770D-F0BB-4241-8F79-7D7C98FA8D24}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\p01_ studentsystem.model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{301D770D-F0BB-4241-8F79-7D7C98FA8D24}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\kerol\\source\\repos\\p01_studentsystem\\p01_studentsystem\\p01_ studentsystem.model\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{301D770D-F0BB-4241-8F79-7D7C98FA8D24}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\kerol\\onedrive\\desktop\\p01_studentsystem\\p01_studentsystem\\p01_ studentsystem.model\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{301D770D-F0BB-4241-8F79-7D7C98FA8D24}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\p01_ studentsystem.model\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923151136_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P01_StudentSystem\\Migrations\\20240923151136_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{301D770D-F0BB-4241-8F79-7D7C98FA8D24}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\kerol\\onedrive\\desktop\\p01_studentsystem\\p01_studentsystem\\p01_ studentsystem.model\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301D770D-F0BB-4241-8F79-7D7C98FA8D24}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\p01_ studentsystem.model\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{301D770D-F0BB-4241-8F79-7D7C98FA8D24}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\kerol\\source\\repos\\p01_studentsystem\\p01_studentsystem\\p01_ studentsystem.model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{301D770D-F0BB-4241-8F79-7D7C98FA8D24}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\kerol\\onedrive\\desktop\\p01_studentsystem\\p01_studentsystem\\p01_ studentsystem.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301D770D-F0BB-4241-8F79-7D7C98FA8D24}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\p01_ studentsystem.data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301D770D-F0BB-4241-8F79-7D7C98FA8D24}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\kerol\\onedrive\\desktop\\p01_studentsystem\\p01_studentsystem\\p01_ studentsystem.model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{301D770D-F0BB-4241-8F79-7D7C98FA8D24}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\p01_ studentsystem.model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{301D770D-F0BB-4241-8F79-7D7C98FA8D24}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\kerol\\source\\repos\\p01_studentsystem\\p01_studentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{301D770D-F0BB-4241-8F79-7D7C98FA8D24}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\kerol\\onedrive\\desktop\\p01_studentsystem\\p01_studentsystem\\p01_ studentsystem.model\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301D770D-F0BB-4241-8F79-7D7C98FA8D24}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\p01_ studentsystem.model\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301D770D-F0BB-4241-8F79-7D7C98FA8D24}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\kerol\\onedrive\\desktop\\p01_studentsystem\\p01_studentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{301D770D-F0BB-4241-8F79-7D7C98FA8D24}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923212417_first_ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:P01_StudentSystem\\Migrations\\20240923212417_first_ad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301D770D-F0BB-4241-8F79-7D7C98FA8D24}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\kerol\\onedrive\\desktop\\p01_studentsystem\\p01_studentsystem\\p01_ studentsystem.model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301D770D-F0BB-4241-8F79-7D7C98FA8D24}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\p01_ studentsystem.model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923151220_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923151136_test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,106 +57,142 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20240923151649_test1.cs",
-              "DocumentMoniker": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923151649_test1.cs",
-              "RelativeDocumentMoniker": "P01_StudentSystem\\Migrations\\20240923151649_test1.cs",
-              "ToolTip": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923151649_test1.cs",
-              "RelativeToolTip": "P01_StudentSystem\\Migrations\\20240923151649_test1.cs",
+              "Title": "20240923212848_first_add.cs",
+              "DocumentMoniker": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923212848_first_add.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem\\Migrations\\20240923212848_first_add.cs",
+              "ToolTip": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923212848_first_add.cs",
+              "RelativeToolTip": "P01_StudentSystem\\Migrations\\20240923212848_first_add.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAD0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:28:48.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\P01_ StudentSystem.Model\\Resource.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem\\P01_ StudentSystem.Model\\Resource.cs",
+              "ToolTip": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\P01_ StudentSystem.Model\\Resource.cs",
+              "RelativeToolTip": "P01_StudentSystem\\P01_ StudentSystem.Model\\Resource.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T15:16:49.464Z",
+              "WhenOpened": "2024-09-23T21:25:13.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20240923151220_test1.cs",
-              "DocumentMoniker": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923151220_test1.cs",
-              "RelativeDocumentMoniker": "P01_StudentSystem\\Migrations\\20240923151220_test1.cs",
-              "ToolTip": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923151220_test1.cs",
-              "RelativeToolTip": "P01_StudentSystem\\Migrations\\20240923151220_test1.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAFEAAAARAAAAAAAAAA==",
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\P01_ StudentSystem.Model\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem\\P01_ StudentSystem.Model\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\P01_ StudentSystem.Model\\StudentCourse.cs",
+              "RelativeToolTip": "P01_StudentSystem\\P01_ StudentSystem.Model\\StudentCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T15:12:20.38Z",
+              "WhenOpened": "2024-09-23T21:25:12.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "20240923212417_first_ad.cs",
+              "DocumentMoniker": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923212417_first_ad.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem\\Migrations\\20240923212417_first_ad.cs",
+              "ToolTip": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923212417_first_ad.cs",
+              "RelativeToolTip": "P01_StudentSystem\\Migrations\\20240923212417_first_ad.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:24:17.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\P01_ StudentSystem.Model\\Course.cs",
+              "DocumentMoniker": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\P01_ StudentSystem.Model\\Course.cs",
               "RelativeDocumentMoniker": "P01_StudentSystem\\P01_ StudentSystem.Model\\Course.cs",
-              "ToolTip": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\P01_ StudentSystem.Model\\Course.cs",
+              "ToolTip": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\P01_ StudentSystem.Model\\Course.cs",
               "RelativeToolTip": "P01_StudentSystem\\P01_ StudentSystem.Model\\Course.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvw8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T15:11:49.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeWork.cs",
-              "DocumentMoniker": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\P01_ StudentSystem.Model\\HomeWork.cs",
-              "RelativeDocumentMoniker": "P01_StudentSystem\\P01_ StudentSystem.Model\\HomeWork.cs",
-              "ToolTip": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\P01_ StudentSystem.Model\\HomeWork.cs",
-              "RelativeToolTip": "P01_StudentSystem\\P01_ StudentSystem.Model\\HomeWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\Program.cs",
+              "RelativeToolTip": "P01_StudentSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T15:11:48.375Z",
+              "WhenOpened": "2024-09-23T14:54:55.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20240923151136_test1.cs",
-              "DocumentMoniker": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923151136_test1.cs",
-              "RelativeDocumentMoniker": "P01_StudentSystem\\Migrations\\20240923151136_test1.cs",
-              "ToolTip": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923151136_test1.cs",
-              "RelativeToolTip": "P01_StudentSystem\\Migrations\\20240923151136_test1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T15:11:36.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\P01_ StudentSystem.Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\P01_ StudentSystem.Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "P01_StudentSystem\\P01_ StudentSystem.Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\P01_ StudentSystem.Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\P01_ StudentSystem.Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "P01_StudentSystem\\P01_ StudentSystem.Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T15:07:51.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\P01_ StudentSystem.Model\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\P01_ StudentSystem.Model\\Student.cs",
               "RelativeDocumentMoniker": "P01_StudentSystem\\P01_ StudentSystem.Model\\Student.cs",
-              "ToolTip": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\P01_ StudentSystem.Model\\Student.cs",
+              "ToolTip": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\P01_ StudentSystem.Model\\Student.cs",
               "RelativeToolTip": "P01_StudentSystem\\P01_ StudentSystem.Model\\Student.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAADwvxMAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T15:00:39.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Program.cs",
-              "RelativeDocumentMoniker": "P01_StudentSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Program.cs",
-              "RelativeToolTip": "P01_StudentSystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "HomeWork.cs",
+              "DocumentMoniker": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\P01_ StudentSystem.Model\\HomeWork.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem\\P01_ StudentSystem.Model\\HomeWork.cs",
+              "ToolTip": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\P01_ StudentSystem.Model\\HomeWork.cs",
+              "RelativeToolTip": "P01_StudentSystem\\P01_ StudentSystem.Model\\HomeWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T14:54:55.001Z",
+              "WhenOpened": "2024-09-23T15:11:48.375Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240923151220_test1.cs",
+              "DocumentMoniker": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923151220_test1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923151220_test1.cs",
+              "ToolTip": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923151220_test1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923151220_test1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:12:20.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240923151136_test1.cs",
+              "DocumentMoniker": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923151136_test1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923151136_test1.cs",
+              "ToolTip": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923151136_test1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\Migrations\\20240923151136_test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:11:36.864Z"
             }
           ]
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OH7h2dcZFXA=",
+  "dgSpecHash": "jgqtCzZIfVw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj",
+  "projectFilePath": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kerol\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\kerol\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

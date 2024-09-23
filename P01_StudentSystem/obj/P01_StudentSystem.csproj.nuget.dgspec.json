@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj": {}
+    "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj": {
+    "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj",
+        "projectUniqueName": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj",
         "projectName": "P01_StudentSystem",
-        "projectPath": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj",
+        "projectPath": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj",
         "packagesPath": "C:\\Users\\kerol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kerol\\source\\repos\\P01_StudentSystem\\P01_StudentSystem\\obj\\",
+        "outputPath": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_StudentSystem\\P01_StudentSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kerol\\AppData\\Roaming\\NuGet\\NuGet.Config",
